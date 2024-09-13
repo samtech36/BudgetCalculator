@@ -1,0 +1,14 @@
+C:\Users\Samuel Hossain\Desktop\Repos\BudgetCalculator\BudgetCalculator\BudgetCalculator\bin\Debug\net8.0\BudgetCalculator.exe
+C:\Users\Samuel Hossain\Desktop\Repos\BudgetCalculator\BudgetCalculator\BudgetCalculator\bin\Debug\net8.0\BudgetCalculator.deps.json
+C:\Users\Samuel Hossain\Desktop\Repos\BudgetCalculator\BudgetCalculator\BudgetCalculator\bin\Debug\net8.0\BudgetCalculator.runtimeconfig.json
+C:\Users\Samuel Hossain\Desktop\Repos\BudgetCalculator\BudgetCalculator\BudgetCalculator\bin\Debug\net8.0\BudgetCalculator.dll
+C:\Users\Samuel Hossain\Desktop\Repos\BudgetCalculator\BudgetCalculator\BudgetCalculator\bin\Debug\net8.0\BudgetCalculator.pdb
+C:\Users\Samuel Hossain\Desktop\Repos\BudgetCalculator\BudgetCalculator\BudgetCalculator\obj\Debug\net8.0\BudgetCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Hossain\Desktop\Repos\BudgetCalculator\BudgetCalculator\BudgetCalculator\obj\Debug\net8.0\BudgetCalculator.AssemblyInfoInputs.cache
+C:\Users\Samuel Hossain\Desktop\Repos\BudgetCalculator\BudgetCalculator\BudgetCalculator\obj\Debug\net8.0\BudgetCalculator.AssemblyInfo.cs
+C:\Users\Samuel Hossain\Desktop\Repos\BudgetCalculator\BudgetCalculator\BudgetCalculator\obj\Debug\net8.0\BudgetCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Hossain\Desktop\Repos\BudgetCalculator\BudgetCalculator\BudgetCalculator\obj\Debug\net8.0\BudgetCalculator.dll
+C:\Users\Samuel Hossain\Desktop\Repos\BudgetCalculator\BudgetCalculator\BudgetCalculator\obj\Debug\net8.0\refint\BudgetCalculator.dll
+C:\Users\Samuel Hossain\Desktop\Repos\BudgetCalculator\BudgetCalculator\BudgetCalculator\obj\Debug\net8.0\BudgetCalculator.pdb
+C:\Users\Samuel Hossain\Desktop\Repos\BudgetCalculator\BudgetCalculator\BudgetCalculator\obj\Debug\net8.0\BudgetCalculator.genruntimeconfig.cache
+C:\Users\Samuel Hossain\Desktop\Repos\BudgetCalculator\BudgetCalculator\BudgetCalculator\obj\Debug\net8.0\ref\BudgetCalculator.dll
