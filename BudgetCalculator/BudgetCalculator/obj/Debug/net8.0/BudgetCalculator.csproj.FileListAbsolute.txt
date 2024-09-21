@@ -12,3 +12,4 @@ C:\Users\Samuel Hossain\Desktop\Repos\BudgetCalculator\BudgetCalculator\BudgetCa
 C:\Users\Samuel Hossain\Desktop\Repos\BudgetCalculator\BudgetCalculator\BudgetCalculator\obj\Debug\net8.0\BudgetCalculator.pdb
 C:\Users\Samuel Hossain\Desktop\Repos\BudgetCalculator\BudgetCalculator\BudgetCalculator\obj\Debug\net8.0\BudgetCalculator.genruntimeconfig.cache
 C:\Users\Samuel Hossain\Desktop\Repos\BudgetCalculator\BudgetCalculator\BudgetCalculator\obj\Debug\net8.0\ref\BudgetCalculator.dll
+C:\Users\Samuel Hossain\Desktop\Repos\BudgetCalculator\BudgetCalculator\BudgetCalculator\obj\Debug\net8.0\BudgetCalculator.sourcelink.json

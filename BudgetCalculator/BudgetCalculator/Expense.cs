@@ -2,47 +2,24 @@ namespace BudgetCalculator;
 
 public class Expense
 {
-    
-    //properties
-    public List<decimal> Expenses { get; set; }
 
-    
-    
-    
-    public Expense ()
+    public string Category { get; set; }
+    public double Amount { get; set; }
+
+    public Expense(string category, double amount)
     {
-        Expenses = new List<decimal>();
-       
+        Category = category;
+        Amount = amount;
     }
-
-    public void AddExpense(decimal amount)
-    {
-        if (amount > 0)
-        {
-            Expenses.Add(amount);
-            Console.WriteLine($"Expense added: {amount}");
-        }
-
-        else
-        {
-            Console.WriteLine("Expense amount is invalid");
-        }
-        
-    }
-
-
-    public decimal GetTotal()
-    {
-        decimal totalExpenses = 0;
-
-        foreach (var expense in Expenses)
-        {
-            totalExpenses += expense;
-        }
-
-        return totalExpenses;
-
-    }
-
     
+    //store expenses
+    static List<Expense> expenses = new List<Expense>();
+    static double totalIncome = 0.0;
+
+
+
+
+
+
+
 }
